@@ -5,7 +5,7 @@ tags:
   - spiritual-formation
   - distraction
 ---
-I once heard an analogy that described the things to which we cling in life as balls made out of glass or rubber. Some, it was said, you could drop and they would bounce away. Others would shatter when your grip loosened. Her point was that to cling to Jesus, we sometimes need to let go of some things, things that we felt would destroy our lives if we dropped them. 
+I once heard an analogy that described the things to which we cling in life as balls made out of glass or rubber. Some, it was said, you could drop and they would bounce away. Others would shatter when your grip loosened. The point was that to cling to Jesus, we sometimes need to let go of some things, things that we felt would destroy our lives if we dropped them. 
 
 As I'm writing this, it's midterm season–crunch time. My to-do list is getting longer, not shorter. Empty slots on my calendar are becoming a scarce resource. My mind is constantly updating and checking a list of responsibilities, deadlines, and obligations. 
 
@@ -13,7 +13,7 @@ In times like these, we often feel like we're not just holding them. We're juggl
 
 Is that what we want to be doing with the singular gift of our lives? Juggling?
 
-The juggling takes a lot of energy, and a lot of attention, too. We might feel distant from God, and from other people. And then we hear a sermon, or maybe some advice from a mentor. “Slow down!” They say, extremely helpfully. “Get some rest!” The Lord, of course, tells us that his yolk is easy and his burden is light. 
+The juggling takes a lot of energy, and a lot of attention, too. We might feel distant from God, and from other people. And then we hear a sermon, or maybe some advice from a mentor. “Slow down!” They say, extremely helpfully. “Get some rest!” The Lord, of course, tells us that his yoke is easy and his burden is light. 
 
 Is it though? How can I rest at a time like this? 
 
@@ -29,7 +29,7 @@ There is a warning, though. Busyness can make us vulnerable to preoccupation and
 
 A reading from the Holy Gospel according to Luke:
 
-> Now as they went on their way, Jesus entered a village. A woman named Martha welcomed him into her house. And she had a sister called Mary, who sat at the Lord's feet and listened to his teaching. But Martha was distracted with much serving. And she went up to him and said, ‘Lord, do you not care that my sister has left me to serve alone? Tell her then to help me.’ But the Lord answered her, ‘Martha, Martha, you are anxious and troubled about many things, but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.’
+> Now as they went on their way, Jesus entered a village. A woman named Martha welcomed him into her house. And she had a sister called Mary, who sat at the Lord's feet and listened to his teaching. But Martha was distracted with much serving. And she went up to him and said, ‘Lord, do you not care that my sister has left me to serve alone? Tell her then to help me.’ But the Lord answered her, ‘Martha, Martha, you are anxious and troubled about many things, but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her' ([Lk 10:38-42 ESV](https://www.biblegateway.com/passage/?search=luke%2010&version=ESV)).
 
 In this passage, there are two characters: Martha and Mary. Martha is a busybody, and a bossy woman. She’s ridiculing or scolding Mary for sitting around. And Mary, apparently, is to be admired because Jesus comments on the wisdom of her choice to sit at His feet. Martha was distracted with much serving, and Mary chose the good portion.
 
@@ -45,7 +45,7 @@ Sometimes the things that are vying for our attention are a bit more serious tha
 
 And we can read in the book of Daniel his response to what happened:
 
-> When Daniel knew that the document had been signed, he went to his house where he had his windows in the upper chamber open toward Jerusalem. He got down on his knees three times a day and prayed and gave thanks before his God as he had done previously.
+> When Daniel knew that the document had been signed, he went to his house where he had his windows in the upper chamber open toward Jerusalem. He got down on his knees three times a day and prayed and gave thanks before his God as he had done previously ([Dan 6:10](https://www.biblegateway.com/passage/?search=Daniel%206&version=ESV)).
 
 Isn’t that incredible? Daniel’s spiritual rhythms were so integrated into him that he continued to do them despite lethal political and legal threats.
 
@@ -63,9 +63,9 @@ That being said, God’s been opening my eyes to a fundamental truth: I can't ju
 
 There is this way of living where we can be attentive to what God is doing in our lives, be sensitive to His presence, and be sensitive to the needs of others even in the midst of a busy schedule, a long to-do list, and a lot of people depending on us.
 
-## Me
+## A Window Into The Mundane
 
-I’m just going to give you a brief window into my life. Junior year, second semester of my undergrad degree was really hard, especially as a CS student. During that semester, I ate at the school cafeteria a lot because I had 19 scans a week. There's often not very many people in the caf for breakfast before 8 AM, and for that reason I found it restful. It was quiet. I’d get my eggs and my sausage links, and I’d sit at a table close to the windows where the sun shines through. One particular morning, as I sat there, eating, I was struck by how good and pleasant it felt for the sunshine to hit my skin. It was this warm embrace. And suddenly I was reminded of this verse in Psalm 34: that those who look on Him are radiant with joy. And then this other verse from Psalm 139: "You hem me in behind and before, and lay your hand upon me." And in that moment, I could just feel the Lord's presence, laying His hands on me, wrapping me in this embrace. I couldn’t help but smile. For a moment, I was at peace. Despite all the stuff that I had to do, God was there with me. I could always run to his arms and be at rest.
+I’m just going to give you a brief window into my life. Junior year, second semester of my undergrad degree was really hard, especially as a CS student. During that semester, I ate at the school cafeteria a lot because I had 19 meal swipes a week. There's often not very many people in the caf for breakfast before 8 AM, and for that reason I found it restful. It was quiet. I’d get my eggs and my sausage links, and I’d sit at a table close to the windows where the sun shines through. One particular morning, as I sat there, eating, I was struck by how good and pleasant it felt for the sunshine to hit my skin. It was this warm embrace. And suddenly I was reminded of this verse in Psalm 34: that those who look on Him are radiant with joy. And then this other verse from Psalm 139: "You hem me in behind and before, and lay your hand upon me." And in that moment, I could just feel the Lord's presence, laying His hands on me, wrapping me in this embrace. I couldn’t help but smile. For a moment, I was at peace. Despite all the stuff that I had to do, God was there with me. I could always run to his arms and be at rest.
 
 As I reflected on this experience later, it struck me as surprising that such a mundane moment generated such a spiritual experience. I’ve come to realize that my mind is constantly so preoccupied that I don’t even notice God’s presence during the ordinary moments of life. If I’m always thinking about what’s next–my to do list items, calendar events, internship applications, my 4 year plan–then I’m not going to notice him. If I’m stuck in the past–botched conversations, that test that I bombed, the mistakes I made yesterday–I’m not going to notice him. God’s not in the past or the future. You’re only going to notice his presence *in the present!*  
 
@@ -91,7 +91,7 @@ What does this do? I’ve heard it described as looking in the rearview mirror o
 
 So to conclude: a life of attentiveness to God is characterized by a deep dependence on His word, and it's rooted in a daily rhythm of prayer, no matter your schedule. It's a life lived in the present, unshackled by preoccupations—not because your responsibilities don't matter, but because Christ matters more. It's not about nuking your calendar; it's about keeping an eye out for Him, and an ear open.
 
-I will leave you with a poem by Gerard Manely Hopkins called *God's Grandeur.* It's one of my favorites, and it beautifully articulates the wonder of the world in which we live–wonder which many times we fail to notice.
+I will leave you with a poem by Gerard Manley Hopkins called *God's Grandeur.* It's one of my favorites, and it beautifully articulates the wonder of the world in which we live–wonder which many times we fail to notice.
 
 > The world is charged with the grandeur of God.  
 > 	It will flame out, like shining from shook foil;  
@@ -107,10 +107,12 @@ I will leave you with a poem by Gerard Manely Hopkins called *God's Grandeur.* I
 > And though the last lights off the black West went  
 > 	Oh, morning, at the brown brink eastward, springs—  
 > Because the Holy Ghost over the bent  
-> 	World broods with warm breast and with ah! bright wings.
+> 	World broods with warm breast and with ah! bright wings.[^2]
 
 Don’t your life pass you by. In the midst of the mundane and the everyday, you’ll find God’s grandeur flaming out, shining, gathering, if you only keep an eye out and pay attention.
 
 AMGD
 
 [^1]: I'll admit I'm mostly speaking for myself here, but if you're reading my blog, chances are this applies to you.
+
+[^2]: [Read it on The Poetry Foundation](https://www.poetryfoundation.org/poems/44395/gods-grandeur)
