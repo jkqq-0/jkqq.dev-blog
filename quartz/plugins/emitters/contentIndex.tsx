@@ -28,6 +28,8 @@ interface Options {
   rssFullHtml: boolean
   rssSlug: string
   includeEmptyFiles: boolean
+  includeInIndex: boolean
+  filter?: (details: ContentDetails) => boolean
 }
 
 const defaultOptions: Options = {
@@ -37,6 +39,8 @@ const defaultOptions: Options = {
   rssFullHtml: false,
   rssSlug: "index",
   includeEmptyFiles: true,
+  includeInIndex: true,
+  filter: () => true,
 }
 
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
@@ -103,7 +107,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
-          linkIndex.set(slug, {
+          const details: ContentDetails = {
             slug,
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
@@ -115,7 +119,11 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
               : undefined,
             date: date,
             description: file.data.description ?? "",
-          })
+          }
+
+          if (opts?.filter!(details)) {
+            linkIndex.set(slug, details)
+          }
         }
       }
 
@@ -137,24 +145,27 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         })
       }
 
-      const fp = joinSegments("static", "contentIndex") as FullSlug
-      const simplifiedIndex = Object.fromEntries(
-        Array.from(linkIndex).map(([slug, content]) => {
-          // remove description and from content index as nothing downstream
-          // actually uses it. we only keep it in the index as we need it
-          // for the RSS feed
-          delete content.description
-          delete content.date
-          return [slug, content]
-        }),
-      )
+      if (opts?.includeInIndex) {
+        const fp = joinSegments("static", "contentIndex") as FullSlug
+        const simplifiedIndex = Object.fromEntries(
+          Array.from(linkIndex).map(([slug, content]) => {
+            // remove description and from content index as nothing downstream
+            // actually uses it. we only keep it in the index as we need it
+            // for the RSS feed
+            const copy = { ...content }
+            delete copy.description
+            delete copy.date
+            return [slug, copy]
+          }),
+        )
 
-      yield write({
-        ctx,
-        content: JSON.stringify(simplifiedIndex),
-        slug: fp,
-        ext: ".json",
-      })
+        yield write({
+          ctx,
+          content: JSON.stringify(simplifiedIndex),
+          slug: fp,
+          ext: ".json",
+        })
+      }
     },
     externalResources: (ctx) => {
       if (opts?.enableRSS) {
@@ -163,8 +174,8 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             <link
               rel="alternate"
               type="application/rss+xml"
-              title="RSS Feed"
-              href={`https://${ctx.cfg.configuration.baseUrl}/index.xml`}
+              title={opts?.rssSlug === "index" ? "RSS Feed" : `${opts?.rssSlug} RSS Feed`}
+              href={`https://${ctx.cfg.configuration.baseUrl}/${opts?.rssSlug}.xml`}
             />,
           ],
         }

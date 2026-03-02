@@ -83,6 +83,14 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssSlug: "index",
+      }),
+      Plugin.ContentIndex({
+        enableSiteMap: false,
+        enableRSS: true,
+        rssSlug: "posts",
+        includeInIndex: false,
+        filter: (details) => details.filePath.startsWith("Posts/"),
       }),
       Plugin.Assets(),
       Plugin.Static(),
