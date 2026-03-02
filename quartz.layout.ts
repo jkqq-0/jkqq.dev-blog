@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.ConditionalRender({
       component: Component.RecentNotes({
-        filter: (page) => page.slug != "index" && (page.relativePath?.startsWith("Posts") ?? false),
+        filter: (page) => !page.relativePath.endsWith("index.md") && (page.relativePath?.startsWith("Posts") ?? false),
         showTags: false,
         limit: 5,
         title: "Recent Posts"
