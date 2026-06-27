@@ -12,8 +12,7 @@ The project was a part of a class/competition called Collaborative Design Lab (C
 
 ### Intern Matchmaker
 
-Also on the resume processing beat. This project is for a large NWA[^1] company as a part of my CS Capstone. They needed a faster way to match batches of 50+ interns to company projects. I and a classmate have built an AI-based matching tool that their hiring managers can use. React frontend, Supabase backend, and a Rust API[^2] for resume and project processing. 
-
+Also on the resume processing beat. This project was for a large NWA[^1] company as a part of my CS Capstone. They needed a faster way to match batches of 50+ interns to company projects. I and a classmate built an AI recommendation system that their hiring managers can use. React frontend, Supabase backend, and a Rust API[^2] for resume and project processing.
 
 [^1]: Northwest Arkansas
 
