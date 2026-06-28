@@ -46,7 +46,11 @@ Nearly every app in the store wants you to use it for as long as possible, becau
 
 If you'd like to make exceptions or opt back in to certain apps, do it at your own risk. I leave Letterboxd on my phone so I can log movies, but sometimes I still find myself scrolling around on it for longer than I intended.[^4]
 
+<<<<<<< HEAD
 # Related
+=======
+## Related
+>>>>>>> 3f002f5ffb6a1dd90bc05471146ace3191b380e2
 
 - [Digital Minimalism](https://www.amazon.com/gp/product/0525536515?creative=9325&creativeASIN=0525536515&linkId=df480f3d3d20e5615f22defc9bea667c) by Cal Newport
 - [The Ruthless Elimination of Hurry](https://www.penguinrandomhouse.com/books/600096/the-ruthless-elimination-of-hurry-by-john-mark-comer-foreword-by-john-ortberg/) by John Mark Comer
