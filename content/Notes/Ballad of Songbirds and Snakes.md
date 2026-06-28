@@ -21,6 +21,6 @@ Something else worth mentioning. The inevitability of the downfall is a great pl
 
 Instead of gradually and inevitably becoming a villain over the course of the 157 min runtime, Snow's mostly a good, likable person until 2 hours into the movie, after which he makes a baffling series of decisions that result in Lucy abandoning him. He hops on the train and returns to the Capital. Suddenly he's an ice-cold killer and fully transformed into the Snow we knew from the original series.
 
-Weird? Weird.
+[Weird? Weird.](https://www.youtube.com/watch?v=qBCJrH8qMFk)
 
 [^1]: I wonder if there's a broader literary tradition here, but I can't think of any notable examples other than contemporary ones.
