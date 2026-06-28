@@ -5,7 +5,7 @@ tags:
 ---
 *A Spoiler Review.*
 
-This film exists in a tradition of the villain's journey. The protagonist is the antagonist of a famous tale, and we see his sympathetic beginnings, his or her temptations and flaws, and ultimately his or her tragic ascendancy to become the villain we come to hate.  What's compelling about these stories is the dramatic irony. We know who he or she will become in the end, but we can't help hoping that it might not happen. Notable examples include the *Star Wars* prequels, *Wicked,* and some of the recent Disney live-action films.[^1]
+This film exists in a tradition of the villain's journey. The protagonist is the antagonist of a famous tale, and we see sympathetic beginnings, temptations and flaws, and ultimately his or her tragic ascendancy to become the villain we come to hate. What's compelling about these stories is the dramatic irony. We know who he or she will become in the end, but we can't help hoping that it might not happen. Notable examples include the *Star Wars* prequels, *Wicked,* and some of the recent Disney live-action films.[^1]
 
 The trick with these types of stories is to strike a delicate balance between likability and believability. You don't want to tell a story with a protagonist that's despicable from the start. You have to give the audience a reason to root for the protagonist. Trying too hard to do this, however, can feel fake and contrived. The audience might have a hard time believing that this person whom they like so much could really become the villain in such a short time.
 
