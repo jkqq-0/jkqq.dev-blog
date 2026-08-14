@@ -11,13 +11,13 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
             submodules: true  # Required for themes
             fetch-depth: 0    # Recommended for submodules
 
       - name: Setup Node.js 
-        uses: actions/setup-node@v4 
+        uses: actions/setup-node@v6 
         with:  
             node-version: '22' 
             cache: 'npm'
@@ -29,7 +29,7 @@ jobs:
         run: npx quartz build
 
       - name: Configure AWS Credentials  
-        uses: aws-actions/configure-aws-credentials@v4  
+        uses: aws-actions/configure-aws-credentials@v6  
         with:  
           role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
           aws-region: us-east-1
